@@ -32,8 +32,7 @@ li a:hover {
 }
 
 p.main {
-  text-align: center=[oo[[[
-;
+  text-align: center;
   font-size: 40px;
     text-shadow: 2px 2px 5px red;
 }
@@ -47,4 +46,7 @@ i {
 	font-size:100px;
 	color:red;
 	text-shadow:2px 2px 4px #000000;
+}
+.center {
+	text-align: center;
 }
