@@ -32,14 +32,19 @@ li a:hover {
 }
 
 p.main {
-  text-align: center;
+  text-align: center=[oo[[[
+;
   font-size: 40px;
     text-shadow: 2px 2px 5px red;
 }
 h2 { 
-	font-size: 30px;
+	font-size: 80px;
     -webkit-text-stroke: 2px black; 
     font-family: sans; color: red;
 	text-align: center;
 }
-
+i {
+	font-size:100px;
+	color:red;
+	text-shadow:2px 2px 4px #000000;
+}
